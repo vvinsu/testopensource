@@ -1,6 +1,6 @@
 # Contributing to the project
 
-Thanks for checking out the Guides! We're excited to hear and learn from you. Your experiences will benefit others who read and use these guides.
+We're excited to hear and learn from you. Your experiences will benefit others who read and use these guides.
 
 We've put together the following guidelines to help you figure out where you can best be helpful.
 
